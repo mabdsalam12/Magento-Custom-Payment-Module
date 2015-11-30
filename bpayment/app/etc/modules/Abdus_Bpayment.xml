@@ -1,0 +1,11 @@
+<config>
+	<modules>
+		<Abdus_Bpayment>
+			<active>true</active>
+			<codePool>local</codePool>
+			<depends>
+				<Mage_Payment />
+			</depends>
+		</Abdus_Bpayment>
+	</modules>
+</config>
