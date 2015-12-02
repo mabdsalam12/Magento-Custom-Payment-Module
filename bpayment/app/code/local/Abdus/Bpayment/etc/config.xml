@@ -41,7 +41,7 @@
 				<model>bpayment/paymentmethod</model>
 				<order_status>pending</order_status>
 				<title>Bpayment</title>
-				<allotspecific>0</allotspecific>
+				<allowspecific>0</allowspecific>
 				<payment_action>sale</payment_action>
 			</bpayment>
 		</payment>
