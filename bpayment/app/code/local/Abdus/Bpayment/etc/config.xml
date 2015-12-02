@@ -50,7 +50,7 @@
 				<bpayment>
 					<use>standard</use>
 					<args>
-						<modules>Abdus_Bpayment</modules>
+						<module>Abdus_Bpayment</module>
 						<frontName>bpayment</frontName>
 					</args>
 				</bpayment>
