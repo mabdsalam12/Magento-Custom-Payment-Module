@@ -26,6 +26,13 @@
 				<class>Abdus_Bpayment_Model</class>
 			</bpayment>
 		</models>
+		<resources>
+			<bpayment_setup>
+				<setup>
+					<module>Abdus_Bpayment</module>
+				</setup>
+			</bpayment_setup>
+		</resources>
 	</global>
 	<default>
 		<payment>
